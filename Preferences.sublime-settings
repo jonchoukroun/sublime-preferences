@@ -1,0 +1,24 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"caret_extra_width": 5,
+	"color_scheme": "Packages/User/SublimeLinter/feel_good (SL).tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Sauce Code Powerline",
+	"font_size": 16,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Theme - Kronuz.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_ctrl_keys": true,
+	"wide_caret": true,
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
+	"word_wrap": true
+}

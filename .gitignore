@@ -1,2 +1,5 @@
-/Package Control.cache/*
-/Package Control.last-run/*
+*
+
+!.gitignore
+!Preferences.sublime-settings
+!Theme - Kronuz.sublime-theme

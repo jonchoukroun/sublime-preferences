@@ -12,6 +12,7 @@
 	[
 		"Vintage"
 	],
+	"rulers": [80],
 	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "Theme - Kronuz.sublime-theme",
@@ -20,5 +21,6 @@
 	"vintageous_use_ctrl_keys": true,
 	"wide_caret": true,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
-	"word_wrap": true
+	"word_wrap": true,
+	"wrap_width": 80
 }

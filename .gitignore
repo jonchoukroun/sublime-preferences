@@ -1,5 +1,7 @@
 *
 
 !.gitignore
+!Default (OSX).sublime-keymap
 !Preferences.sublime-settings
+!Package Control.sublime-settings
 !Theme - Kronuz.sublime-theme

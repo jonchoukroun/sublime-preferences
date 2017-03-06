@@ -12,7 +12,10 @@
 	[
 		"Vintage"
 	],
-	"rulers": [80],
+	"rulers":
+	[
+		80
+	],
 	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "Theme - Kronuz.sublime-theme",

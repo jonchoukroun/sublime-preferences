@@ -1,7 +1,4 @@
-*
-
-!.gitignore
-!Default (OSX).sublime-keymap
-!Preferences.sublime-settings
-!Package Control.sublime-settings
-!Theme - Kronuz.sublime-theme
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+Package Contro.cache
